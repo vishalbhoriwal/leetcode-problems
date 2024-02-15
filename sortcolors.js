@@ -23,4 +23,4 @@ var sortColors = function (nums) {
   return nums;
 };
 
-console.log(sortColors(arr));
+console.log(sortColors([1,2,0]));
