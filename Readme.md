@@ -8,3 +8,4 @@
 4. Kadane's Algorithm
 5. Sort an array of 0's, 1's and 2's: Done
 6. Stock Buy and Sell
+7. Rotate Matrix
