@@ -11,3 +11,6 @@
 7. Rotate Matrix: Done
 8. Merge Intervals: Done
 9. Inversion of Array (Pre-req: Merge Sort) : Pending
+10. Search in a 2 D matrix: Done
+11. Pow x/n: Pending
+12. Majority Element (Mores Voting Algorithm)
